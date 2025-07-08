@@ -1,0 +1,265 @@
+﻿@model List<Web.Models.Tour>
+@using System.Data.Linq
+
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+<div class="container-fluid bg-primary py-5 mb-5 hero-header">
+    <div class="container py-5">
+        <div class="row justify-content-center py-5">
+            <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Enjoy Your Vacation With Us</h1>
+                <p class="fs-4 text-white mb-4 animated slideInDown">Tempor erat elitr rebum at clita diam amet diam et eos erat ipsum lorem sit</p>
+                <form class="position-relative w-75 mx-auto animated slideInDown" action="/Tours/Index">
+                    <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="search" id="search" name="search" placeholder="Eg: Hạ Long " value="@ViewBag.Search">
+                    <button type="submit" class="btn btn-primary rounded-pill py-2 px-4 position-absolute top-0 end-0 me-2" style="margin-top: 7px;">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!-- Diem Den Start -->
+<!--<div class="container-xxl py-5 destination">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.3s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Điểm đến</h6>
+            <h1 class="mb-5">Điểm đến phổ biến</h1>
+        </div>
+        <div class="row g-3">
+            <div class="col-lg-7 col-md-6">
+                <div class="row g-3">
+
+                    <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="@Url.Content("~/Assets/tour/" + ViewBag.Tour1)" alt="">
+                            <div class="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">30% OFF</div>
+                            <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">@ViewBag.Tour2</div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="@Url.Content("~/Assets/tour/" + ViewBag.Tour3)" alt="">
+                            <div class="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">25% OFF</div>
+                            <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">@ViewBag.Tour4</div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="@Url.Content("~/Assets/tour/" + ViewBag.Tour5)" alt="">
+                            <div class="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">35% OFF</div>
+                            <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">@ViewBag.Tour6</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
+                <a class="position-relative d-block h-100 overflow-hidden" href="">
+                    <img class="img-fluid position-absolute w-100 h-100" src="@Url.Content("~/Assets/tour/" + ViewBag.Tour7)" alt="" style="object-fit: cover;">
+                    <div class="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">20% OFF</div>
+                    <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">@ViewBag.Tour8</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>-->
+<!-- Diem Den Start -->
+<!-- Package Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Packages</h6>
+            <h1 class="mb-5">Awesome Packages</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="package-item">
+                        <div class="overflow-hidden image-container">
+                            <img src="data:image/jpeg;base64,@Convert.ToBase64String(item.Hinh1.ToArray())" alt="Hình 1" style="width: 400px;">
+                        </div>
+                        <div class="d-flex border-bottom">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>@item.TenTour</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>@ViewBag.SoNgayDi</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>@item.SoGhe</small>
+                        </div>
+                        <div class="text-center p-4">
+                            <h3 class="mb-0">@item.Gia</h3>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                            </div>
+                            <p>@item.MoTa</p>
+                            <div class="d-flex justify-content-center mb-2">
+                                <a href="@Url.Action("Detail", "Tours", new { id = item.MaTour })" class="btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
+                                @*<a href="@Url.Content("/DatTour/XacNhanDatTour/" + item.MaTour)" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>*@
+                                <a href="@Url.Action("XacNhanDatTour", "DatTour", new { id = item.MaTour })" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>
+<!-- Package End -->
+<!-- Tien ích Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Tiện ích</h6>
+            <h1 class="mb-5"></h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-globe text-primary mb-4"></i>
+                        <h5>Điểm đến</h5>
+                        <p>Những danh lam thắng cảnh ở Việt Nam.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-hotel text-primary mb-4"></i>
+                        <h5>Khách sạn</h5>
+                        <p>Liên kết với các khách sạn cao cấp trên mọi nơi.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-user text-primary mb-4"></i>
+                        <h5>Hướng dẫn viên</h5>
+                        <p>Người sẽ dẫn dắt các bạn đến những khung trời mới lạ.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-cog text-primary mb-4"></i>
+                        <h5>Sự kiện</h5>
+                        <p>Tổ chức các sự kiện xuyên suốt trong quá trình đi chơi.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- tien ich  End -->
+<!-- Team Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Team</h6>
+            <h1 class="mb-5">Thông tin thành viên</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="@Url.Content("~/Assets/travelguide/nv2.jpg")" alt="">
+                    </div>
+                    <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+
+                    </div>
+                    <div class="text-center p-4">
+                        <h5 class="mb-0"> Lê Hồng Ngọc</h5>
+                        <small>2001206934</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="@Url.Content("~/Assets/travelguide/nv5.jpg")" alt="">
+                    </div>
+                    <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+
+                    </div>
+                    <div class="text-center p-4">
+                        <h5 class="mb-0"> Bùi Đoàn Tiên Chỉ Duy Hệ</h5>
+                        <small>2001204143</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="@Url.Content("~/Assets/travelguide/nv6.jpg")" alt="">
+                    </div>
+                    <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                    </div>
+                    <div class="text-center p-4">
+                        <h5 class="mb-0"> Phạm Hải Đăng</h5>
+                        <small>2001203033</small>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Team End -->
+<script>
+    let __protocol = document.location.protocol;
+    let __baseUrl = __protocol + '//livechat.fpt.ai/v35/src';
+
+    let prefixNameLiveChat = 'Tour Du Lịch';
+    let objPreDefineLiveChat = {
+        appCode: 'bf1077c1747f19b59ecb89d889d0bfff',
+        themes: '',
+        appName: prefixNameLiveChat ? prefixNameLiveChat : 'Live support',
+        thumb: '',
+        icon_bot: ''
+    },
+        appCodeHash = window.location.hash.substr(1);
+    if (appCodeHash.length == 32) {
+        objPreDefineLiveChat.appCode = appCodeHash;
+    }
+
+    let fpt_ai_livechat_script = document.createElement('script');
+    fpt_ai_livechat_script.id = 'fpt_ai_livechat_script';
+    fpt_ai_livechat_script.src = __baseUrl + '/static/fptai-livechat.js';
+    document.body.appendChild(fpt_ai_livechat_script);
+
+    let fpt_ai_livechat_stylesheet = document.createElement('link');
+    fpt_ai_livechat_stylesheet.id = 'fpt_ai_livechat_script';
+    fpt_ai_livechat_stylesheet.rel = 'stylesheet';
+    fpt_ai_livechat_stylesheet.href = __baseUrl + '/static/fptai-livechat.css';
+    document.body.appendChild(fpt_ai_livechat_stylesheet);
+
+    fpt_ai_livechat_script.onload = function () {
+        fpt_ai_render_chatbox(objPreDefineLiveChat, __baseUrl, 'livechat.fpt.ai:443');
+    }
+</script>

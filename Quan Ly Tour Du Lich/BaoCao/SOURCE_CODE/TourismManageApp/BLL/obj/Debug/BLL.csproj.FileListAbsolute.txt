@@ -1,0 +1,7 @@
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\bin\Debug\BLL.dll.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\bin\Debug\BLL.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\bin\Debug\BLL.pdb
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\obj\Debug\BLL.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\TourismManageApp\BLL\obj\Debug\BLL.pdb

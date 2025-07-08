@@ -1,0 +1,264 @@
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.dll.config
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.pdb
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.exe
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.exe.config
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.rsp
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.exe
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.exe.config
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.rsp
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Buffers.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Memory.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.exe
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.exe.config
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.rsp
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Buffers.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Collections.Immutable.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Memory.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Numerics.Vectors.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Razor.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Buffers.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Collections.Immutable.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Memory.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Numerics.Vectors.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Razor.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.pdb
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Data.Linq.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Owin.dll
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\phhai\Documents\GitHub\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.dll.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Web.pdb
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.exe
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.exe.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csc.rsp
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.exe
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.exe.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\csi.rsp
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Buffers.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Memory.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.exe
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.exe.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\vbc.rsp
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Newtonsoft.Json.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Owin.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Buffers.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Collections.Immutable.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Data.Linq.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Memory.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Numerics.Vectors.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Helpers.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Mvc.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Razor.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Deployment.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Razor.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\Newtonsoft.Json.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Buffers.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Collections.Immutable.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Memory.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Numerics.Vectors.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Razor.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Deployment.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Webpages.Razor.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Helpers.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\bin\System.Web.Mvc.xml
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.dll
+C:\backup\PTUDTM\New folder (2)\DA_LTCSHARP2_NHOM_20\SOURCE\Web\Web\obj\Debug\Web.pdb
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Web.dll.config
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Web.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Web.pdb
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csc.exe
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csc.exe.config
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csc.rsp
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csi.exe
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csi.exe.config
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\csi.rsp
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Buffers.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Memory.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\vbc.exe
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\vbc.exe.config
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\vbc.rsp
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\EntityFramework.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Owin.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Buffers.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Collections.Immutable.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Data.Linq.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Memory.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Numerics.Vectors.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Razor.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\EntityFramework.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Buffers.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Collections.Immutable.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Memory.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Numerics.Vectors.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Razor.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\obj\Debug\Web.csproj.Up2Date
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\obj\Debug\Web.dll
+C:\Users\Ngọc Thy\Documents\Zalo Received Files\QuanLyTourDuLich\BaoCao\SOURCE_CODE\Web\Web\obj\Debug\Web.pdb

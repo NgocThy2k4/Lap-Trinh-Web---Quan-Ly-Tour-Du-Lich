@@ -1,0 +1,50 @@
+﻿@model List<Web.Models.NhanVien>
+
+@{
+    ViewBag.Title = "DsHuongDanVien";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+
+<div class="container-fluid bg-primary py-5 mb-5 hero-header">
+    <div class="container py-5">
+        <div class="row justify-content-center py-5">
+            <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Enjoy Your Vacation With Us</h1>
+                <p class="fs-4 text-white mb-4 animated slideInDown">Tempor erat elitr rebum at clita diam amet diam et eos erat ipsum lorem sit</p>
+                <form class="position-relative w-75 mx-auto animated slideInDown" action="/Tours/Index">
+                    <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="search" id="search" name="search" placeholder="Eg: Hạ Long " value="@ViewBag.Search">
+                    <button type="submit" class="btn btn-primary rounded-pill py-2 px-4 position-absolute top-0 end-0 me-2" style="margin-top: 7px;">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Team Start -->
+<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="text-center">
+            <h6 class="section-title bg-white text-center text-primary px-3">Team</h6>
+            <h1 class="mb-5"></h1>
+        </div>
+        <div class="owl-carousel testimonial-carousel position-relative">
+            @foreach (var item in Model)
+            {
+                <div class="testimonial-item bg-white text-center border p-4">
+                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="@Url.Content("~/Assets/travelguide/" + item.HinhAnh)" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0"> @item.TenNV</h5>
+                    <p>@item.Email</p>
+                    <p class="mb-0">@item.ChucVu</p>
+                </div>
+            }
+                
+
+            </div>
+    </div>
+</div>
+<!-- Team End -->

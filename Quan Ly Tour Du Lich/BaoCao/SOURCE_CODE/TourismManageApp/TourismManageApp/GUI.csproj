@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3A916EB-DC5E-4500-B766-83F8CFEB64BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TourismManageApp</RootNamespace>
+    <AssemblyName>TourismManageApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BLL">
+      <HintPath>..\BLL\bin\Debug\BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminGUI\FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGUI\FrmAdmin.Designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLNhanVien.Designer.cs">
+      <DependentUpon>FrmQLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLTaiKhoan.Designer.cs">
+      <DependentUpon>FrmQLTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLTTKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGUI\FrmQLTTKhachHang.Designer.cs">
+      <DependentUpon>FrmQLTTKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGUI\FrmThemTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGUI\FrmThemTour.Designer.cs">
+      <DependentUpon>FrmThemTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmCaiDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmCaiDat.Designer.cs">
+      <DependentUpon>FrmCaiDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmDatTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmDatTour.Designer.cs">
+      <DependentUpon>FrmDatTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmQLDatVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmQLDatVe.Designer.cs">
+      <DependentUpon>FrmQLDatVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmQLHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmQLHopDong.Designer.cs">
+      <DependentUpon>FrmQLHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmThongTinDatTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmThongTinDatTour.Designer.cs">
+      <DependentUpon>FrmThongTinDatTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TourismManageAppDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TourismManageAppDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PublicGUI\FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicGUI\FrmDashboard.Designer.cs">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserGUI\FrmDatVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmDatVe.Designer.cs">
+      <DependentUpon>FrmDatVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserGUI\FrmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmKhachHang.Designer.cs">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserGUI\FrmMain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmMain2.Designer.cs">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserGUI\FrmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmSearch.Designer.cs">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserGUI\FrmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmThanhToan.Designer.cs">
+      <DependentUpon>FrmThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserGUI\FrmThongBao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserGUI\FrmThongBao.Designer.cs">
+      <DependentUpon>FrmThongBao.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminGUI\FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGUI\FrmQLNhanVien.resx">
+      <DependentUpon>FrmQLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGUI\FrmQLTaiKhoan.resx">
+      <DependentUpon>FrmQLTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGUI\FrmQLTTKhachHang.resx">
+      <DependentUpon>FrmQLTTKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGUI\FrmThemTour.resx">
+      <DependentUpon>FrmThemTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmCaiDat.resx">
+      <DependentUpon>FrmCaiDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmDatTour.resx">
+      <DependentUpon>FrmDatTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmQLDatVe.resx">
+      <DependentUpon>FrmQLDatVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmQLHopDong.resx">
+      <DependentUpon>FrmQLHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmThongTinDatTour.resx">
+      <DependentUpon>FrmThongTinDatTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublicGUI\FrmDashboard.resx">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGUI\FrmDatVe.resx">
+      <DependentUpon>FrmDatVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGUI\FrmKhachHang.resx">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGUI\FrmMain2.resx">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGUI\FrmSearch.resx">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserGUI\FrmThanhToan.resx">
+      <DependentUpon>FrmThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGUI\FrmThongBao.resx">
+      <DependentUpon>FrmThongBao.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TourismManageAppDataSet.xsc">
+      <DependentUpon>TourismManageAppDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TourismManageAppDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TourismManageAppDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TourismManageAppDataSet.xss">
+      <DependentUpon>TourismManageAppDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rating.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\description.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ticket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ticket-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ticket-solid1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart-simple-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-flag-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bus-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hotel-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clock-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-map-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-selfish-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DaNang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HaLong2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DaLat1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tomtatchuyendi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HaLong1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zyro-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dg_200827_CAU RONG VE DEM_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HaLong11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VietNam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HinhNenLogin.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
